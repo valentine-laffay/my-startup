@@ -1,0 +1,21 @@
+@import 'components/navbar.css';
+@import 'components/footer.css';
+@import 'components/banner.css';
+@import 'components/container.css';
+@import 'components/card-shoes.css';
+@import 'components/card-shoes-desc.css';
+@import 'components/card-about.css';
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@100&display=swap');
+
+*{
+  font-family: 'M PLUS 1p', sans-serif;
+}
+
+.title-center{
+  text-align: center;
+  margin-top: 50px;
+}
+
+body{
+  background-color: #e7eaf6;
+}

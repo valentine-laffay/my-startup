@@ -1,0 +1,11 @@
+.card-about{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: 50px;
+  background-color: white;
+  margin: 70px 0px;
+}
+
+.card-map{
+  text-align: center;
+  margin: 70px 0px;
+}

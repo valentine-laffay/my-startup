@@ -1,0 +1,28 @@
+.footer {
+  background: #a2a8d3;
+  color: #fff;
+  width: 100%;
+  text-align: center;
+  font-family: Roboto;
+}
+
+.footer a {
+  color: #fff;
+  text-decoration: none;
+  padding: 20px;
+  display: inline-block;
+  transition: 0.8s;
+}
+
+.footer a:hover {
+  color: #eee;
+  background: rgba(0, 0, 0, 0.2);
+}
+
+.footer p {
+  text-align: center;
+  margin: 0;
+  font-size: 14px;
+  padding: 10px 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+}
